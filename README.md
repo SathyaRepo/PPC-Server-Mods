@@ -1,4 +1,4 @@
-Keyless Entry
+Auto Decrypt Keyless Entry
 =============
 
 Easily switch on/off keyless reboot for ext4 Linux systems with LUKS encryption
